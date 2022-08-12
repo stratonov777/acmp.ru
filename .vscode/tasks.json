@@ -6,7 +6,7 @@
             "type": "shell",
             "command": "g++",
             "args":[
-                "-g", "0331.cxx"
+                "-g", "0946.cxx"
             ],
             "group": {
                 "kind": "build",
